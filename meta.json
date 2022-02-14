@@ -1,0 +1,23 @@
+{
+  "name": "RejolutTestNFT",
+  "symbol": "RTN",
+  "description": "This is Rejolut Test NFT description",
+  "seller_fee_basis_points": 0,
+  "image": "https://rejolut.com/wp-content/uploads/2021/06/rejolut-logo.png",
+  "external_url": "",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://monsterxblob.blob.core.windows.net/tutorial-container/576A12231313 - Copy.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GxZ5svsFnXAMfdcU3nHys7g41rQsF6pLT6uWBNq2Vbwv",
+        "share": 100
+      }
+    ]
+  }
+}
